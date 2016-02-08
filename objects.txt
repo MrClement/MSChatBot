@@ -1,5 +1,3 @@
-Subjects
-
 cake
 kkk
 illuminati
@@ -41,8 +39,8 @@ muslim
 jew
 christian
 flag
-great 
-awesome 
+great
+awesome
 fat
 green
 Chinese food
@@ -52,14 +50,10 @@ lizard
 good
 bad
 gulag
-happy 
+happy
 sad
 motivated
 angry
 calm
 horrible
 disgusting
-
-
-
-		

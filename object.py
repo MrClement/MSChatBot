@@ -5,7 +5,7 @@ objects = []
 for word in f:
     objects.append(word.strip('\n'))
 def getRandomWord():
-    t = random.randint(0, 64)
+    t = random.randint(0, len(objects)-1)
     x = objects[t]
     return x
 getRandomWord()
