@@ -8,5 +8,3 @@ def getRandomWord():
     t = random.randint(0,79)
     x = verbs[t]
     return x
-
-getRandomWord()
