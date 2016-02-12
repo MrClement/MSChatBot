@@ -14,17 +14,17 @@ def main():
 		if(x=="nobody loves you"):
 			return('nobody loves you either')
 		if x.lower.find("clement") >=0 :
-			print "Mr. Clement plays Dota"
+			x=raw_input("Mr. Clement plays Dota")
 		if x.lower.find("llama") >=0:
-			print "Did you know that Addison is a llama?"
+			x=raw_input("Did you know that Addison is a llama?")
 		if x.lower.find(kuntz) >=:
-			print "Brags about how smart Kent students are"
+			x=raw_input)("Brags about how smart Kent students are")
 		if x.lower.find(Harrington) >=:
-			print "headmaster"
+			x=raw_input("headmaster")
 		if x.lower.find(football) >=:
-			print "go Broncos"
+			x=raw_input("go Broncos")
 		if x.lower.find(soccer) >=:
-			"You are not American enough"
+			x=raw_input)("You are not American enough")
 
 
 
