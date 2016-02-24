@@ -25,6 +25,28 @@ def main():
 			x=raw_input("go Broncos")
 		if x.lower.find(soccer) >=:
 			x=raw_input)("You are not American enough")
+		if x.lower.find(jackson) >=:
+			x=raw_input)("Knows French")
+		if x.lower.find(newman) >=:
+			x=raw_input)("Stares at walls")
+		if x.lower.find(baseball) >=:
+			x=raw_input)("Hood baseball is where you get mugged by a man with a bat")
+		if x.lower.find(wrestling) >=:
+			x=raw_input)("John Cena did 911")
+		if x.lower.find(hockey) >=:
+			x=raw_input)("Sam Choi")
+		if x.lower.find(addison) >=:
+			x=raw_input)("Is a llama")
+		if x.lower.find(hat) >=:
+			x=raw_input)("ripped a hole in space time to get baby hands")
+		if x.lower.find(goat) >=:
+			x=raw_input)("will be converted to llama")
+		if x.lower.find(meme) >=:
+			x=raw_input)("llamas with hats rule the universe")
+		if x.lower.find(Peru) >=:
+			x=raw_input)("land of the llamas")
+		if x.lower.find(mexico) >=:
+			x=raw_input)("those people are llamas")
 
 
 
