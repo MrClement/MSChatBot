@@ -2,7 +2,7 @@ import random
 x = raw_input("Enter a word: ")
 y = x.lower()
 
-if y.find("computer")>=0 or y.find("code")>=0 or y.find("apple")>=0 or y.find("dell")>=0 or y.find("agar.io")>=0 or y.find("terminal")>=0 or y.find("atom")>=0 or y.find("sublime")>=0 or y.find("maleware")>=0 or y.find("tojan")>=0 or y.find("worm")>=0 or y.find("botnet")>=0 or y.find("quine")>=0 or y.find("byte")>=0 or y.find("ram")>=0 or y.find("memory")>=0 or y.find("screen")>=0 or y.find("chip")>=0 or y.find("circit")>=0 or y.find("electr")>=0 or y.find("mac"):
+if y.find("computer")>=0 or y.find("code")>=0 or y.find("apple")>=0 or y.find("dell")>=0 or y.find("agar.io")>=0 or y.find("terminal")>=0 or y.find("atom")>=0 or y.find("sublime")>=0 or y.find("maleware")>=0 or y.find("tojan")>=0 or y.find("worm")>=0 or y.find("botnet")>=0 or y.find("quine")>=0 or y.find("byte")>=0 or y.find("ram")>=0 or y.find("memory")>=0 or y.find("screen")>=0 or y.find("chip")>=0 or y.find("circit")>=0 or y.find("electr")>=0 or y.find("mac")>=0:
     cList = ["Look at 'Metiocre Electronics' for more! ", "Malware installation in proggress. ", "Much tech. ", "The horoscopes predict that computers will soon rise to power. ", "Going to download 42.zip. "]
     r = random.randint(0,5)
     print cList[r]
