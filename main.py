@@ -27,7 +27,7 @@ def main():
 			x=raw_input("You are not American enough")
 		if x.lower.find(jackson) >=0:
 			x=raw_input("Knows French")
-		if x.lower.find(newman) >=:0
+		if x.lower.find(newman) >=0:
 			x=raw_input("Stares at walls")
 		if x.lower.find(baseball) >=0:
 			x=raw_input("Hood baseball is where you get mugged by a man with a bat")
